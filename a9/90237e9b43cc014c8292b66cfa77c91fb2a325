@@ -1,0 +1,22 @@
+bun.lock
+  ai_agent 1141,1197,5152,5154,5218,6248-6250
+package.json
+  s_a07e640771ba1f::t_2ea5d273bff6f8 92
+  s_a07e640771ba1f::t_643ed20a0fe7e1 142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a990237e9b43cc014c8292b66cfa77c91fb2a325",
+  "prompts": {},
+  "sessions": {
+    "s_a07e640771ba1f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2985707-8356-4cbe-99ab-27c263569050",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Saurav Panda <sgp65@cornell.edu>"
+    }
+  }
+}
